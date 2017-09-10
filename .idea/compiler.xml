@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="BestBuy" />
         <module name="Generic" />
+        <module name="NewEgg" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="BestBuy" target="1.8" />
       <module name="FrameworkGroupTwo" target="1.8" />
       <module name="Generic" target="1.8" />
+      <module name="NewEgg" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
