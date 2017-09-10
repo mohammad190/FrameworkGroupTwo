@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/FrameworkGroupTwo.iml" filepath="$PROJECT_DIR$/FrameworkGroupTwo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewEgg/NewEgg.iml" filepath="$PROJECT_DIR$/NewEgg/NewEgg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Twitter/Twitter.iml" filepath="$PROJECT_DIR$/Twitter/Twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WellsFargo/WellsFargo.iml" filepath="$PROJECT_DIR$/WellsFargo/WellsFargo.iml" />
     </modules>
   </component>
 </project>
