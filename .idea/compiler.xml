@@ -9,6 +9,7 @@
         <module name="BestBuy" />
         <module name="Generic" />
         <module name="NewEgg" />
+        <module name="Twitter" />
         <module name="WellsFargo" />
       </profile>
     </annotationProcessing>
@@ -17,6 +18,7 @@
       <module name="FrameworkGroupTwo" target="1.8" />
       <module name="Generic" target="1.8" />
       <module name="NewEgg" target="1.8" />
+      <module name="Twitter" target="1.8" />
       <module name="washingtonpost" target="1.8" />
       <module name="WellsFargo" target="1.8" />
     </bytecodeTargetLevel>
