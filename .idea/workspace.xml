@@ -649,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1505188309996</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This is WellsFargo basic Test cases.">
+      <created>1505188616723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505188616723</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -738,7 +745,8 @@
     <MESSAGE value="3rd" />
     <MESSAGE value="TestCase" />
     <MESSAGE value="This is Twitter basic Test cases." />
-    <option name="LAST_COMMIT_MESSAGE" value="This is Twitter basic Test cases." />
+    <MESSAGE value="This is WellsFargo basic Test cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="This is WellsFargo basic Test cases." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
