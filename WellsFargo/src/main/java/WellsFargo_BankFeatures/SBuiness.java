@@ -9,11 +9,11 @@ public class SBuiness extends CommonAPI {
     @FindBy(how = How.ID,using = "tabNavSmallBusiness")
     public static WebElement SmallBusiness;
 
-    @FindBy(how = How.ID,using = "destination")
-    public static WebElement A_Summary;
+    @FindBy(how = How.ID,using = "otherSvcs")
+    public static WebElement ElectronicsPayment;
 
     public void SmallBuss(){
         SmallBusiness.click();
-        A_Summary.click();
+        ElectronicsPayment.click();
     }
 }

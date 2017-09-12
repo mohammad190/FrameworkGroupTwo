@@ -6,9 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
@@ -17,10 +15,10 @@ public class CommonAPI {
     public static WebDriver driver;
 
     @Parameters({"browser","url"})
-    @BeforeTest
+    @BeforeMethod
     public void launch_Browser_Open_Application(String browser, String url) {
         get_Local_Driver(browser);
-        driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
         driver.navigate().to(url);
         driver.manage().window().maximize();
     }
@@ -45,7 +43,7 @@ public class CommonAPI {
         return driver;
     }
 
-    @AfterTest
+    @AfterMethod
     public void close_Browser() {
         driver.quit();
     }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Twitter" parallel="tests">
+    <test name="TwitterFeatures">
+        <parameter name="browser" value="firefox"/>
+        <parameter name="url" value="https://twitter.com/"/>
+        <classes>
+            <class name="TestHome.TestHomePage"></class>
+        </classes>
+    </test>
+</suite>
