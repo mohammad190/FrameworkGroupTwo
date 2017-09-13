@@ -2,10 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Twitter" parallel="tests">
     <test name="TwitterFeatures">
-        <parameter name="browser" value="firefox"/>
+        <parameter name="browser" value="chrome"/>
         <parameter name="url" value="https://twitter.com/"/>
         <classes>
+            <class name="TestHome.TestLogin"></class>
             <class name="TestHome.TestHomePage"></class>
+
         </classes>
     </test>
 </suite>

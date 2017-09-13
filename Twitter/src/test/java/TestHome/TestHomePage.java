@@ -11,37 +11,31 @@ public class TestHomePage extends CommonAPI {
     public void TwitterHomePage() {
         T_HomePage page = PageFactory.initElements(driver, T_HomePage.class);
         page.HomePage1();
-
     }
-
     @Test
     public void WellsHomePage1() {
 
         T_HomePage page = PageFactory.initElements(driver, T_HomePage.class);
         page.HomePage1();
     }
-
     @Test
     public void WellsHomePage2() {
 
         T_HomePage page = PageFactory.initElements(driver, T_HomePage.class);
         page.HomePage2();
     }
-
     @Test
     public void WellsHomePage3() {
 
         T_HomePage page = PageFactory.initElements(driver, T_HomePage.class);
         page.HomePage3();
     }
-
     @Test
     public void WellsHomePage4() {
 
         T_HomePage page = PageFactory.initElements(driver, T_HomePage.class);
         page.HomePage4();
     }
-
     @Test
     public void WellsHomePage5() {
 

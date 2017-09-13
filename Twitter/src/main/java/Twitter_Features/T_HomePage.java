@@ -8,22 +8,22 @@ import org.openqa.selenium.support.How;
 
 public class T_HomePage extends CommonAPI {
 
-    @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
+    @FindBy(how = How.XPATH,using = ".//*[@id='doc']/div[1]/div/div[2]/div/a[2]/span")
     public static WebElement Sports;
 
     @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
     public static WebElement News;
 
-    @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
+    @FindBy(how = How.XPATH,using = ".//*[@id='doc']/div[1]/div/div[2]/div/a[4]/span")
     public static WebElement Music;
 
     @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
     public static WebElement Entertainment;
 
-    @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
+    @FindBy(how = How.XPATH,using = ".//*[@id='doc']/div[1]/div/div[2]/div/a[6]/span")
     public static WebElement Lifestyle;
 
-    @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
+    @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName.firefinder-match")
     public static WebElement More;
 
     public void HomePage1(){
@@ -32,7 +32,6 @@ public class T_HomePage extends CommonAPI {
     public void HomePage2(){
         News.click();
     }
-
     public void HomePage3(){
         Music.click();
     }
