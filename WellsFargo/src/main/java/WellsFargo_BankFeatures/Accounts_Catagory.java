@@ -21,14 +21,18 @@ public class Accounts_Catagory extends CommonAPI {
 
     public static void AccountTrade(String value)throws InterruptedException{
         AccountType.sendKeys(value);
+        Thread.sleep(3000);
     }
     public static void user_ID(String name)throws InterruptedException{
         put_userId.sendKeys(name);
+        Thread.sleep(3000);
     }
     public static void user_password(String password)throws InterruptedException{
         put_Password.sendKeys(password);
+        Thread.sleep(3000);
     }
     public static void SignIn()throws InterruptedException{
         signInButton.click();
+        Thread.sleep(3000);
     }
 }
