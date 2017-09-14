@@ -30,7 +30,7 @@ public class T_Login extends CommonAPI {
 
         get_login_Button.click();
 
-        Thread.sleep(5000);
+        Thread.sleep(3000);
     }
 }
 

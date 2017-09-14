@@ -17,6 +17,6 @@ public class Search_Option extends CommonAPI {
     public static void Searching(String news)throws InterruptedException{
         Search.click();
         search_Box.sendKeys(news, Keys.ENTER);
-        Thread.sleep(8000);
+        Thread.sleep(3000);
     }
 }

@@ -11,8 +11,8 @@
 
 
 
-            <!--&lt;!&ndash;<class name="TestCase.sBusiness"></class>&ndash;&gt;-->
-            <!--&lt;!&ndash;<class name="TestCase.TestWellsFago"></class>&ndash;&gt;-->
+            <!--<class name="TestCase.sBusiness"></class>-->
+            <!--<class name="TestCase.TestWellsFago"></class>-->
             <!--<class name="TestCase.Test_banking"></class>-->
             <!--<class name="TestCase.Test_Commercial"></class>-->
             <class name="TestCase.Customer_Account_Catagory"></class>
