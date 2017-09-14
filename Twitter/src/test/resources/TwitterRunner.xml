@@ -7,6 +7,7 @@
         <classes>
             <class name="TestHome.TestLogin"></class>
             <class name="TestHome.TestHomePage"></class>
+            <class name="TestHome.Searching_Test"></class>
 
         </classes>
     </test>

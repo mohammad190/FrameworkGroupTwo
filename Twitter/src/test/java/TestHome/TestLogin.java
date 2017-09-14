@@ -12,9 +12,5 @@ public class TestLogin extends CommonAPI {
     public void Testing_login() throws InterruptedException {
         T_Login t_login = PageFactory.initElements(driver,T_Login.class);
         t_login.userName_Box("sujondpi@yahoo.com","");
-
     }
-
-
-
 }
