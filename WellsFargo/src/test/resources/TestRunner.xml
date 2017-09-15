@@ -8,14 +8,12 @@
         <parameter name="url" value="https://www.wellsfargo.com/"/>
 
         <classes>
-
-
-
             <!--<class name="TestCase.sBusiness"></class>-->
             <!--<class name="TestCase.TestWellsFago"></class>-->
             <!--<class name="TestCase.Test_banking"></class>-->
-            <class name="TestCase.Test_Commercial"></class>
+            <!--<class name="TestCase.Test_Commercial"></class>-->
             <!--<class name="TestCase.Customer_Account_Catagory"></class>-->
+            <class name="TestCase.Test_Financial_Education_Features"></class>
 
         </classes>
     </test>

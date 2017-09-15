@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ec153f4-78d6-4c94-b1b5-2eea600f7150" name="Default" comment="Test using one test method different types of pages">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/Twitter_New_Account.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Twitter/src/test/java/TestHome/Test_New_Twitter_Account.java" />
+    <list default="true" id="0ec153f4-78d6-4c94-b1b5-2eea600f7150" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Financial_Education_Features.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml" afterPath="$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java" afterPath="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml" afterPath="$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,45 +24,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Twitter_New_Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/Twitter_New_Account.java">
+      <file leaf-file-name="SBuiness.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/SBuiness.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_New_Twitter_Account.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/Test_New_Twitter_Account.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="98" lean-forward="true" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwitterRunner.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestHomePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestHomePage.java">
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="55" column="23" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <element signature="e#1695#1696#0" expanded="true" />
+                <element signature="e#1728#1729#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Financial_Education.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Financial_Education_Features.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Financial_Education_Features.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestRunner.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commercial.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Commercial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -109,7 +132,6 @@
         <option value="$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/TestWellsFago.java" />
         <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/HomePage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/WellsFargo_BankFeatures/CommonAPI.java" />
-        <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java" />
         <option value="$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_banking.java" />
         <option value="$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestLogin.java" />
         <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Banking.java" />
@@ -120,12 +142,14 @@
         <option value="$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/T_HomePage.java" />
         <option value="$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/Search_Option.java" />
         <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Accounts_Catagory.java" />
-        <option value="$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml" />
         <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Commercial.java" />
         <option value="$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Commercial.java" />
         <option value="$PROJECT_DIR$/Twitter/src/test/resources/TwitterRunner.xml" />
         <option value="$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/Twitter_New_Account.java" />
         <option value="$PROJECT_DIR$/Twitter/src/test/java/TestHome/Test_New_Twitter_Account.java" />
+        <option value="$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Financial_Education_Features.java" />
+        <option value="$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java" />
       </list>
     </option>
   </component>
@@ -187,44 +211,49 @@
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter_Features" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo_BankFeatures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -232,16 +261,16 @@
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="TestHome" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrameworkGroupTwo" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrameworkGroupTwo" type="462c0819:PsiDirectoryNode" />
-              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="WellsFargo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -284,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml">
     <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="Twitter" />
@@ -454,8 +483,8 @@
     </list>
     <recent_temporary>
       <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/target/test-classes/TestRunner.xml" />
       </list>
     </recent_temporary>
@@ -541,38 +570,45 @@
       <option name="project" value="LOCAL" />
       <updated>1505367051060</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Create new Twitter Account testCases">
+      <created>1505446042971</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1505446042971</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 22h 51m 57s.xml">
-      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 23h 18m 31s.xml">
-      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 23h 22m 05s.xml">
-      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 23h 22m 52s.xml">
-      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 23h 24m 28s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_Twitter_src_test_resources_TwitterRunner_xml - 2017.09.14 at 23h 26m 26s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/Twitter/src/test/resources/TwitterRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.14 at 01h 21m 44s.xml">
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 33m 39s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.14 at 01h 23m 43s.xml">
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 35m 29s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.14 at 01h 26m 52s.xml">
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 36m 45s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.14 at 01h 29m 24s.xml">
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 38m 45s.xml">
+      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 39m 27s.xml">
+      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 39m 55s.xml">
+      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 40m 45s.xml">
+      <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_sujon_IdeaProjects_FrameworkGroupTwo_WellsFargo_src_test_resources_TestRunner_xml - 2017.09.15 at 01h 41m 56s.xml">
       <configuration name="C:/Users/sujon/IdeaProjects/FrameworkGroupTwo/WellsFargo/src/test/resources/TestRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -598,13 +634,13 @@
       <window_info id="TCPMON" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31388012" sideWeight="0.511713" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.045420136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33551556" sideWeight="0.8682816" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2111293" sideWeight="0.8682816" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15057284" sideWeight="0.7577593" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24375473" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.8168054" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16956851" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19000757" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -636,20 +672,14 @@
     <MESSAGE value="Twitter Test cases" />
     <MESSAGE value="Customer account type cases" />
     <MESSAGE value="Test using one test method different types of pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test using one test method different types of pages" />
+    <MESSAGE value="Create new Twitter Account testCases" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create new Twitter Account testCases" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/sBusiness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -806,13 +836,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/SBuiness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -827,13 +850,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/HomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="55" column="23" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11.jar!/org/testng/annotations/Test.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -841,52 +857,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/sBusiness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/TestWellsFago.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_banking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/Searching_Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Twitter/debug.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="97" lean-forward="false" selection-start-line="5" selection-start-column="97" selection-end-line="5" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -901,34 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="35" column="25" lean-forward="false" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Commercial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Commercial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Customer_Account_Catagory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -972,21 +918,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Twitter/src/main/java/Twitter_Features/Twitter_New_Account.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/Searching_Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -994,6 +940,117 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="98" lean-forward="true" selection-start-line="12" selection-start-column="98" selection-end-line="12" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter/src/test/java/TestHome/TestLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Customer_Account_Catagory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/sBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Commercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="34" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/TestWellsFago.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-884">
+          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_banking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/SBuiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="55" column="23" lean-forward="false" selection-start-line="54" selection-start-column="3" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#1728#1729#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Commercial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/java/TestCase/Test_Financial_Education_Features.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/test/resources/TestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WellsFargo/src/main/java/WellsFargo_BankFeatures/Financial_Education.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
