@@ -5,9 +5,10 @@
         <parameter name="browser" value="chrome"/>
         <parameter name="url" value="https://twitter.com/"/>
         <classes>
-            <class name="TestHome.TestLogin"></class>
-            <class name="TestHome.TestHomePage"></class>
-            <class name="TestHome.Searching_Test"></class>
+            <!--<class name="TestHome.TestLogin"></class>-->
+            <!--<class name="TestHome.TestHomePage"></class>-->
+            <!--<class name="TestHome.Searching_Test"></class>-->
+            <class name="TestHome.Test_New_Twitter_Account"></class>
 
         </classes>
     </test>
