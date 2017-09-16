@@ -25,6 +25,9 @@ public class Inside_Twitter_features extends CommonAPI {
     @FindBy(how = How.XPATH, using = ".//*[@id='timeline']/div[2]/div/form/div[3]/div[2]/button")
     public static WebElement click_Twit_Button;
 
+    @FindBy(how = How.XPATH, using = ".//*[@id='page-container']/div[1]/div[1]/div/div[1]/div/a")
+    public static WebElement get_Sujon_profile;
+
 
     public static void Twitter_Home_Page(String email, String password,String Article) throws InterruptedException {
         get_Login.click();
@@ -37,7 +40,9 @@ public class Inside_Twitter_features extends CommonAPI {
 
         click_Twitting_Box.sendKeys(Article);
         click_Twit_Button.click();
-        Thread.sleep(3000);
+
+        get_Sujon_profile.click();
+        Thread.sleep(5000);
 
     }
 }

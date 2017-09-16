@@ -12,6 +12,6 @@ public class Test_Twitter_Inside extends CommonAPI {
     @Test
     public void Testing_login() throws InterruptedException {
         Inside_Twitter_features inside_twitter_features = PageFactory.initElements(driver, Inside_Twitter_features.class);
-        inside_twitter_features.Twitter_Home_Page("sujondpi@yahoo.com", "", "This is my first comment using program for twit");
+        inside_twitter_features.Twitter_Home_Page("sujondpi@yahoo.com", "138863", "This is my first comment using program for twit");
     }
 }

@@ -36,9 +36,9 @@ public class Financial_Education extends CommonAPI {
 
     public void Financial_Education_Elements()throws InterruptedException{
         Click_Financial_Education_1.click();
-        //Thread.sleep(1000);
+        //Thread.sleep(3000);
         Click_Basic_finances_2.click();
-        //Thread.sleep(1000);
+        //Thread.sleep(3000);
         Click_Credit_Management_3.click();
         //Thread.sleep(1000);
         Click_Education_finances_4.click();

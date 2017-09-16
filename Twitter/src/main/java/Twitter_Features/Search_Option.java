@@ -8,7 +8,7 @@ import org.openqa.selenium.support.How;
 
 public class Search_Option extends CommonAPI {
 
-    @FindBy(how = How.XPATH,using = ".//*[@id='doc']/div[1]/div/div[2]/div/div[1]/span/span[1]")
+    @FindBy(how = How.XPATH,using = ".//*[@id='doc']/div[1]/div/div[2]/div/div[1]")
     public static WebElement Search;
 
     @FindBy(how = How.ID,using = "search-query")
