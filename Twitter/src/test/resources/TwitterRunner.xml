@@ -11,7 +11,6 @@
             <class name="TestHome.Test_New_Twitter_Account"></class>
             <class name="TestHome.Test_Twitter_Inside"></class>
 
-
         </classes>
     </test>
 </suite>

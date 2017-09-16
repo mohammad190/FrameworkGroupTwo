@@ -20,7 +20,7 @@ public class T_HomePage extends CommonAPI {
     @FindBy(how = How.LINK_TEXT,using = "Entertainment")
     public static WebElement Entertainment;
 
-    @FindBy(how = How.LINK_TEXT,using = "Lifestyle")
+    @FindBy(how = How.PARTIAL_LINK_TEXT,using = "Lifestyle")
     public static WebElement Lifestyle;
 
     @FindBy(how = How.CSS,using = ".StreamsCategoryBar-itemName")
