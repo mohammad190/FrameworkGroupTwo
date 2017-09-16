@@ -51,5 +51,4 @@ public class T_HomePage extends CommonAPI {
         More.click();
         Thread.sleep(3000);
     }
-
 }

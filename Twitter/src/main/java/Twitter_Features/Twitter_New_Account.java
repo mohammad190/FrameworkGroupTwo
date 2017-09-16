@@ -6,6 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 
 public class Twitter_New_Account extends CommonAPI {
+
     @FindBy(how = How.LINK_TEXT,using = "Sign up")
     public static WebElement Click_SignUp_Box;
 
